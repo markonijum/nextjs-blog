@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ee85d4c-0bfd-4d09-8fd7-258d1140dffc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/Layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/posts/[id].js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/posts/[id].js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +45,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -61,7 +59,7 @@
       <updated>1602686997312</updated>
       <workItem from="1602687000892" duration="4398000" />
       <workItem from="1602758900450" duration="5000" />
-      <workItem from="1603019491096" duration="3572000" />
+      <workItem from="1603019491096" duration="4497000" />
     </task>
     <servers />
   </component>
